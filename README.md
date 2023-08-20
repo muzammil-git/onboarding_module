@@ -1,16 +1,11 @@
-# untitled
+# onboarding_module
 
-A new Flutter project.
+The onboarding screens are automatically displayed when the app is launched for the first time. The user can swipe left or right to navigate between the screens.
 
-## Getting Started
+## Onboarding Screens
+This project provides a set of onboarding screens for a mobile app. The screens are designed to introduce users to the app and its features.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Requirements
+- Flutter
+- Dart
+- Android Studio or VS Code
